@@ -19,9 +19,30 @@ html {
 	text-size-adjust: 100%;
     
     font-size: 100%;
+    font-family: Century-School-Book, Georgia, serif;
 }
 
 img {
 	width: 100%;
     display: block;
 }
+
+body {
+    background-color: gray;
+    color: white;
+    margin: 0;
+    padding: 0;   
+}
+
+.masthead {
+    background-color: black;
+    overflow:hidden;
+}
+
+.logo {
+    height:6rem;
+    width:7rem;
+    margin:.75rem 5%;
+    float:right;
+}
+   
