@@ -52,7 +52,7 @@ article {;
 }
    
 .title123 { /*NOTE - Unable to use this selecator without numbers */
-    margin: 0.5rem, auto;
+    margin: 1.5rem, auto;
     font-family: Helvetica, Arial, sans-serif;
     font-size: 3rem;
     line-height: 3.5rem;  
