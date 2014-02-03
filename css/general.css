@@ -45,4 +45,62 @@ body {
     margin:.75rem 5%;
     float:right;
 }
+
+article {;
+    margin:0;
+    padding: 0 5%;
+}
    
+.title123 { /*NOTE - Unable to use this selecator without numbers */
+    margin: .5rem, auto;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 3rem;
+    line-height: 3.5rem;  
+    color: lightgreen;
+}
+
+h1+p {
+    font-size: 1.25rem;
+    font-weight:bold;
+    line-height: 1.5rem;
+}
+
+p {
+    font-size: 1rem;
+    line-height: 1.25rem;
+}
+
+figure {
+    margin: 0 auto 1.5rem;
+    width: 100%
+}
+
+figcaption {
+    margin: .5rem 0 0;
+    font-size: .85rem;
+    color: lightgreen;
+}
+
+footer {
+    background:black;
+    overflow: hidden;
+}
+
+footer p {
+    margin: .5rem 5% .5rem;
+    color: white;
+    font-size: .75rem
+}
+
+footer a {
+    color: white;
+}
+    
+
+
+
+
+
+
+
+
